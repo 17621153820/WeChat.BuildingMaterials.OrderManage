@@ -1,0 +1,9 @@
+<!--pages/service/service.wxml-->
+<view class="title-page">服务项目</view>
+<view class="container">
+    <view class="service-list">
+        <view>
+            
+        </view>
+    </view>
+</view>
