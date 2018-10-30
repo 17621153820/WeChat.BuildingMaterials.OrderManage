@@ -114,6 +114,10 @@ Component({
                 "A[0].B": "myPrivateData"
             });
         },
-        _propertyChange: function(newVal, oldVal) {}
+        _propertyChange: function(newVal, oldVal) {},
+
+        orderDetail: function () {
+            console.log(1)
+        }
     }
 });

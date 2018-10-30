@@ -1,11 +1,11 @@
 {
   "pages": [
-    "pages/mall/mall",
-    "pages/index/index",
-    "pages/logs/logs",
     "pages/service/service",
+    "pages/index/index",
+    "pages/mall/mall",
     "pages/order/order",
-    "pages/my/my"
+    "pages/my/my",
+    "pages/reservationDetail/reservationDetail"
   ],
   "window": {
     "backgroundTextStyle": "light",
